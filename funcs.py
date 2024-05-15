@@ -3,4 +3,8 @@ def sum():
     b = int(input())
     return a+b
 
-sum()
+
+def subtraction():
+    a = int(input())
+    b = int(input())
+    return a - b
